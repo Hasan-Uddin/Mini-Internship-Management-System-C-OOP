@@ -1,0 +1,14 @@
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\bin\Debug\net8.0\MiniInternshipManagementSystem.exe
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\bin\Debug\net8.0\MiniInternshipManagementSystem.deps.json
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\bin\Debug\net8.0\MiniInternshipManagementSystem.runtimeconfig.json
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\bin\Debug\net8.0\MiniInternshipManagementSystem.dll
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\bin\Debug\net8.0\MiniInternshipManagementSystem.pdb
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.AssemblyInfoInputs.cache
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.AssemblyInfo.cs
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.dll
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\refint\MiniInternshipManagementSystem.dll
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.pdb
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\MiniInternshipManagementSystem.genruntimeconfig.cache
+D:\Projects\ASP.NET\dapplesoft\test3\MiniInternshipManagementSystem\MiniInternshipManagementSystem\obj\Debug\net8.0\ref\MiniInternshipManagementSystem.dll

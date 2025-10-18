@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|d:\\projects\\asp.net\\dapplesoft\\test3\\miniinternshipmanagementsystem\\miniinternshipmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|solutionrelative:miniinternshipmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|d:\\projects\\asp.net\\dapplesoft\\test3\\miniinternshipmanagementsystem\\miniinternshipmanagementsystem\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|solutionrelative:miniinternshipmanagementsystem\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|d:\\projects\\asp.net\\dapplesoft\\test3\\miniinternshipmanagementsystem\\miniinternshipmanagementsystem\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|solutionrelative:miniinternshipmanagementsystem\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|d:\\projects\\asp.net\\dapplesoft\\test3\\miniinternshipmanagementsystem\\miniinternshipmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B10BF1-29C5-4262-8104-E871F6387134}|MiniInternshipManagementSystem\\MiniInternshipManagementSystem.csproj|solutionrelative:miniinternshipmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Internship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\INotifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\ICertifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Services\\TaskService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "RelativeToolTip": "MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:14:01.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MiniInternshipManagementSystem\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "MiniInternshipManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:14:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:46.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Student.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Student.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Organization.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Organization.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mentor.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Internship.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Internship.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Internship.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Internship.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Internship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:45.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "MiniInternshipManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Program.cs",
+              "RelativeToolTip": "MiniInternshipManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:11:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mentor.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "RelativeDocumentMoniker": "MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "RelativeToolTip": "MiniInternshipManagementSystem\\Models\\Mentor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:14:02.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotifiable.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\INotifiable.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\INotifiable.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\INotifiable.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\INotifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:42.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICertifiable.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\ICertifiable.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\ICertifiable.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\ICertifiable.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Interfaces\\ICertifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:42.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Services\\TaskService.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET\\dapplesoft\\test3\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Services\\TaskService.cs",
+              "RelativeToolTip": "..\\DappleSoft-c#_01\\MiniInternshipManagementSystem\\MiniInternshipManagementSystem\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:12:36.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
